@@ -1,15 +1,17 @@
-[![MasterHead](https://pasinfotech.com/wp-content/uploads/2019/06/flutter-banner.jpg)](https://www.dynamicgentis.com)
+[![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png)](https://www.dynamicgentis.com)
 <h1 align="center">Hi 👋, I'm Ufuk</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
-<img align="right" alt="Coding" src="https://e7.pngegg.com/pngimages/450/656/png-clipart-programmer-computer-icons-ninja-saga-computer-software-ninja-computer-sticker-thumbnail.png”>
+<img align="right" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif”>
 
+                                    
+                                    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suysoftware&label=Profile%20views&color=0e75b6&style=flat" alt="suysoftware" /> </p>
 
 - 🔭 I’m currently working on [Isola App](https://www.dynamicgentis.com/isola)
 
 - 🌱 I’m currently learning **NoSql Databases**
 
-- 👨‍💻 All of my projects are available at [https://github.com/suysoftware](https://github.com/suysoftware)
+- 👨‍💻 All of my projects are available at [suysoftware](https://github.com/suysoftware)
 
 - 💬 Ask me about **Dart,Flutter,Firebase**
 
