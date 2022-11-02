@@ -1,7 +1,7 @@
 [![MasterHead](https://pasinfotech.com/wp-content/uploads/2019/06/flutter-banner.jpg)](https://www.dynamicgentis.com)
 <h1 align="center">Hi 👋, I'm Ufuk</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
+<img align="right" alt="Coding" width="400" src="https://e7.pngegg.com/pngimages/450/656/png-clipart-programmer-computer-icons-ninja-saga-computer-software-ninja-computer-sticker-thumbnail.png”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suysoftware&label=Profile%20views&color=0e75b6&style=flat" alt="suysoftware" /> </p>
 
