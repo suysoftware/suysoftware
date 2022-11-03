@@ -1,7 +1,7 @@
 [![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png)](https://www.dynamicgentis.com)
 <h1 align="center">Hi 👋, I'm Ufuk</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
-<img align="right" width="400" src="https://firebasestorage.googleapis.com/v0/b/dbripper-b935d.appspot.com/o/GitHub%2Fe8f453469a3ec97ecd354df465d73913.gif?alt=media&token=375760b7-2a94-4ffa-bef5-2367f8a74602”>
+<img  align="right" width="400"src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format”>
 
                                     
                                     
