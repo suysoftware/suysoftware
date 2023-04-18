@@ -7,7 +7,7 @@
                                     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suysoftware&label=Profile%20views&color=0e75b6&style=flat" alt="suysoftware" /> </p>
 
-- 🔭 I’m currently working on [Isola App](https://www.dynamicgentis.com/isola)
+- 🔭 I’m currently working on [ThinkBuddy]
 
 - 🌱 I’m currently learning **NoSql Databases**
 
