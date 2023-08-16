@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [suysoftware](https://github.com/suysoftware)
 
-- 💬 Ask me about **Dart,Flutter,Firebase**
+- 💬 Ask me about **Flutter,Swift,Firebase**
 
 - 📫 How to reach me **ufuk.yavuz@yahoo.com**
 
