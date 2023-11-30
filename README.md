@@ -1,24 +1,4 @@
 
-- 🔭 I’m currently working on [ThinkBuddy]
-
-- 🌱 I’m currently learning **NoSql Databases**
-
-- 👨‍💻 All of my projects are available at [suysoftware](https://github.com/suysoftware)
-
-- 💬 Ask me about **Flutter,Swift,Firebase**
-
-- 📫 How to reach me **ufuk.yavuz@yahoo.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ufukyavuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ufukyavuzz" height="30" width="40" /></a>
-<a href="https://twitter.com/sezerufukyavuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="ufukyavuzz" height="30" width="40" /></a>
-</p>
-
-
-
-
-
                 
                 
 <h3 align="left">Languages and Tools:</h3>
